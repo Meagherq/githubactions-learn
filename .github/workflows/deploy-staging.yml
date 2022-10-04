@@ -8,6 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
   ### Replace <username> with GitHub username ###
+  # Test Line #
   ###############################################
   DOCKER_IMAGE_NAME: Meagherq-azure-ttt
   AZURE_WEBAPP_NAME: Meagherq-ttt-app
